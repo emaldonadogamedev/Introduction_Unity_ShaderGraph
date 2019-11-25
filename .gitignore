@@ -1,9 +1,9 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+/IntroductionToShaders/[Ll]ibrary/
+/IntroductionToShaders/[Tt]emp/
+/IntroductionToShaders/[Oo]bj/
+/IntroductionToShaders/[Bb]uild/
+/IntroductionToShaders[Bb]uilds/
+/IntroductionToShaders/Assets/AssetStoreTools*
 
 # Gradle cache directory
 .gradle/
