@@ -7,12 +7,12 @@ public class GlowMaterialScript : MonoBehaviour
     public Material material;
     
     [Min(0)]
-    public float startGlowTime = 1f;
+    public float startGlowTime;
 
     [Min(0)]
-    public float stopGlowTime = 1f;
+    public float stopGlowTime;
 
-    public Color glowColor = new Color(1f, 1f, 1f);
+    public Color glowColor;
 
     private float currentTime = 0f;
     private float currentInterpolationFactor = 0f;

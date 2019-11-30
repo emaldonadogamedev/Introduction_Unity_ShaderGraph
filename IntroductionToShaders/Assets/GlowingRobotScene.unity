@@ -497,7 +497,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   material: {fileID: 2100000, guid: 8764a1cc935f1144fbc3be2554b5bc3f, type: 2}
-  startGlowTime: 1
+  startGlowTime: 4.74
   stopGlowTime: 1
   glowColor: {r: 1, g: 0.44920295, b: 0, a: 1}
 --- !u!64 &791409370
